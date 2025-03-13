@@ -7,7 +7,6 @@ public abstract class Conta implements IConta{
     protected int agencia;
     protected int numero;
     protected double saldo;
-    protected double valorEmprestimo;
 
     
 
