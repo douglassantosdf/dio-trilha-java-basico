@@ -5,3 +5,6 @@ onde o custo vem no equipamento para uma cloud privada de servidores por exemplo
 
 quando se cria os recursos, todos eles tem custos e para a conta algumas coisas sao gratuiras umas temporarias outra nao , tambem foi falado sobre a pagina do cloud da microsoft azure mudar o tema, a vantagem de nao ter que mover ''TBs e TBs" sobre ser uma troca de
 responsabilidade onde tem a cloud e nossa manipulação de dados e configuraççoes da nuvem, lembrando que tudo esta sendo focada na certificacao azure az-900
+
+NA AULA DE CRIAÇÃO DE MAQUINAS BVIRTUAIS A AZURE, aprendemos sobre o beneficios em relação ao SLA de tempo de servico e sua importancia para a disponibilidade e quais seus tempos de indisponibilidade, e sobre criar uma maquina virtual e o que ela implica para criacao de uma, sem falar no mencionamento de 
+direcionamento de zonas e a questao de verificar o doc para conhecer melhor sobre detalhes.
