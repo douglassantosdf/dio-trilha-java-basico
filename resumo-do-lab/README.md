@@ -24,3 +24,9 @@ vimos o tipos de maquinas virtuais e suas utilidades , parte de red virtuais e s
 opcoes de hospedagem de aplicativos, conteiners, e tambmem foi falado do VPN e do EXProsseroute, uma alterenativa cara que depende da necessidade e localização da empresa para tornar viavel devido ao tipo de ligacao. (além de precisar de uma empresa autorizada e especializada)
 E  dentro do curso foi falado muito sobre o que e quando utiilizar tanto para uma questão de velocidade quanto para uma questão de custos e viabilidade para um empresa.
 
+** desafio configurando recursos e dimensionamentos em maquinas virtuais na azure LAB <BR>
+
+criamos maquinas virtuais e sobre seus detalhes na hora de cria-las e todos os seus recursos por exemplo que sao criados com predefinidas. também as condiçoes de criacao e expansao para que em 'x'% do processamos expanda para ''x' maquinas e assim por diantes de acordo com as necessidade (como ex a brlackfriday) utilizar o que se é necessario para manter a aplicacao ativa, e gerenciar os custos de utilização para a empresa. também aprendemos quanto a utilizacao do Spot q é um local mais barato mais fica mais susetivel a alguem compra o local cheio e derrubar sua maquina por exemplo, que nao seria algo bom para a aplicacao mas que para ambiente de desenvoilvimento/ teste seria uma opcao barata.
+
+
+
