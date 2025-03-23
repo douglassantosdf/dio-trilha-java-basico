@@ -19,7 +19,7 @@ criamos um grupo de recursos, e também a importancia de ter um controle de quem
 criado uma VNET tambem no caso uma rede virtual.
 
 
-** computação e rede
+** computação e rede <br>
 vimos o tipos de maquinas virtuais e suas utilidades , parte de red virtuais e sub rede onde ficam as maquinas
 opcoes de hospedagem de aplicativos, conteiners, e tambmem foi falado do VPN e do EXProsseroute, uma alterenativa cara que depende da necessidade e localização da empresa para tornar viavel devido ao tipo de ligacao. (além de precisar de uma empresa autorizada e especializada)
 E  dentro do curso foi falado muito sobre o que e quando utiilizar tanto para uma questão de velocidade quanto para uma questão de custos e viabilidade para um empresa.
