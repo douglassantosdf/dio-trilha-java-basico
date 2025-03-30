@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositorio de exemplo do curso Java Básico pela DIO
+Repositorio de exemplo do curso BRADESCO BOOTCAMP pela DIO
