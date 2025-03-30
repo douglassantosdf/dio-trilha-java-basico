@@ -26,7 +26,7 @@ E  dentro do curso foi falado muito sobre o que e quando utiilizar tanto para um
 
 ** desafio configurando recursos e dimensionamentos em maquinas virtuais na azure LAB <BR>
 
-criamos maquinas virtuais e sobre seus detalhes na hora de cria-las e todos os seus recursos por exemplo que sao criados com predefinidas. também as condiçoes de criacao e expansao para que em 'x'% do processamos expanda para ''x' maquinas e assim por diantes de acordo com as necessidade (como ex a brlackfriday) utilizar o que se é necessario para manter a aplicacao ativa, e gerenciar os custos de utilização para a empresa. também aprendemos quanto a utilizacao do Spot q é um local mais barato mais fica mais susetivel a alguem compra o local cheio e derrubar sua maquina por exemplo, que nao seria algo bom para a aplicacao mas que para ambiente de desenvoilvimento/ teste seria uma opcao barata.
+criamos maquinas virtuais e sobre seus detalhes na hora de cria-las e todos os seus recursos por exemplo que sao criados com predefinidas. também as condiçoes de criacao e expansao para que em 'x'% do processamos expanda para ''x' maquinas e assim por diantes de acordo com as necessidade (como ex a brlackfriday) utilizar o que se é necessario para manter a aplicacao ativa, e gerenciar os custos de utilização para a empresa. também aprendemos quanto a utilizacao do Spot q é um local mais barato mais fica mais susetivel a alguem compra o local cheio e derrubar sua maquina por exemplo, que nao seria algo bom para a aplicacao mas que para ambiente de desenvoilvimento/ teste seria uma opcao barata..
 
 
 
