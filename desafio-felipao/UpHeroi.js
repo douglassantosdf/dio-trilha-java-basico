@@ -3,6 +3,7 @@
 let nomeHeroi = "Doug"
 let xpHeroi = 12000
 let nivelHeroi = ""
+
 if (xpHeroi <= 1000) {
     nivelHeroi = "Ferro"
 } else if (xpHeroi <= 2000) {
