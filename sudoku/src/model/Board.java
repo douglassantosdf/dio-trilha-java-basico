@@ -24,7 +24,7 @@ public class Board {
         }
         return spaces.stream().flatMap(Collection::stream).anyMatch(s-> Objects.isNull(s.getValor())) ? StatusEnum.INCOMPLETO : StatusEnum.COMPLETO;
     }
-
+    
     public boolean hasErros(){
         if (getStatus() == StatusEnum.NAO_INICIADO)
             return false;
@@ -32,7 +32,7 @@ public class Board {
         return spaces.stream().flatMap(Collection::stream)
                 .anyMatch(space -> Objects.nonNull(space.getValor()) && !space.getValor().equals(space.getEsperado()));
     }
-
+    // mudar valor
     public boolean mudaValor(int col, int row, int valor){
         Space space = spaces.get(col).get(row);
         if(space.isFixo())
@@ -41,7 +41,7 @@ public class Board {
         space.setValor(valor);
         return true;
     }
-
+    //limpa o vlaor
     public boolean limpaValor(int col, int row){
         Space space = spaces.get(col).get(row);
         if(space.isFixo())
